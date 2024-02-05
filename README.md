@@ -1,4 +1,4 @@
-Brandi HTML5 Bootstraped Business Template
+criador de husky siberiano
 ========
 
 <img src ="https://cloud.githubusercontent.com/assets/10640964/5989549/0f93dfc8-a9b6-11e4-8f1e-75189f6a5759.jpg" />
@@ -7,7 +7,8 @@ Brandi HTML5 Bootstraped Business Template
 
 =========
 
-Brandi is a corporate template that is perfect for individuals or businesses. This theme comes with crisp animation and is responsive meaning it looks great on all devices.These demo is just a example … you can make your own color schemes to further customize your template.
+
+Esperamos que a través de nuestro criadero de husky siberiano podamos compartir nuestra pasión y descubrir esta magnífica raza de perro nórdico que es el siberian husky, así como sus orígenes, su carácter y su estándar.
 
 Key Feature
 
